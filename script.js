@@ -24,11 +24,3 @@ $(function(){
 
 });
 
-//モーダルを閉じると動画（YouTube）も停止する
-$(document).on('closing', '.Spotify', function (e) {
-  var $this = $(this).find('iframe'),
-      tempSrc = $this.attr('src');
-  $this.attr('src', "");
-  $this.attr('src', tempSrc);
-});
-
