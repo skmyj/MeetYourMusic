@@ -82,11 +82,17 @@ section{
   color: #ffffff;
 }
 .remodal {
-  position: relative;
   padding: 25px;
   display: flex;
   justify-content: space-around;
 }
+
+.remodal div{
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+}
+
 .remodal img {
   width: 40%;
   height: auto;
