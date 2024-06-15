@@ -65,7 +65,7 @@ section{
 
 .btn {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   background: #ffffff;
   border: 2px solid #b4b1a0;
@@ -81,7 +81,7 @@ section{
   color: #ffffff;
 }
 .remodal {
-  position: relative;
+  position: absolute;
   padding: 25px;
 }
 .remodal img {
