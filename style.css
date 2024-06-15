@@ -84,13 +84,13 @@ section{
 .remodal {
   position: relative;
   padding: 25px;
+  display: flex;
+  justify-content: space-around;
 }
 .remodal img {
   width: 40%;
   height: auto;
   vertical-align: top;
-  display: flex;
-  justify-content: space-around;
 }
 .remodal-cancel {
   color: #fff;
