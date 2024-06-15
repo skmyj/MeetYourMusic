@@ -38,9 +38,8 @@ section{
 }
   section h1{
   margin-bottom: 12px;
-  display: flex;
-  justify-content: center;
   }
+
   section p {
     margin-bottom: 40px;
   }
