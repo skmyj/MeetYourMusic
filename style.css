@@ -63,6 +63,12 @@ section{
  }
 
 
+
+div{
+  display: flex;
+  justify-content: center;
+}
+
 .btn {
   display: flex;
   justify-content: center;
@@ -81,7 +87,7 @@ section{
   color: #ffffff;
 }
 .remodal {
-  position: absolute;
+  position: relative;
   padding: 25px;
 }
 .remodal img {
