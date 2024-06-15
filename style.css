@@ -37,7 +37,9 @@ section{
   background-color: #dcdddd;
 }
   section h1{
-    margin-bottom: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: center;
   }
   section p {
     margin-bottom: 40px;
@@ -62,12 +64,6 @@ section{
   display: flex;
  }
 
-
-
-div{
-  display: flex;
-  justify-content: center;
-}
 
 .btn {
   display: flex;
