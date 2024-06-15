@@ -89,6 +89,8 @@ section{
   width: 40%;
   height: auto;
   vertical-align: top;
+  display: flex;
+  justify-content: space-around;
 }
 .remodal-cancel {
   color: #fff;
