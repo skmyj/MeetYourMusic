@@ -36,6 +36,10 @@ section{
   margin-bottom: 40px;
   background-color: #dcdddd;
 }
+
+section#PLAYLIST{
+  margin-bottom: 0; 
+}
   section h1{
     margin-bottom: 12px;
   }
