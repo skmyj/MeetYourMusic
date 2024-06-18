@@ -67,6 +67,9 @@ section{
   flex-wrap: wrap;
 }
 
+html{
+  scroll-behavior: smooth scroll;
+ }
 
 footer{
   padding: 40px;
