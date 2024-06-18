@@ -62,6 +62,11 @@ section{
   display: flex;
 
  }
+.contaner{
+  display: flex;
+  flex-wrap: wrap;
+}
+
 
 footer{
   padding: 40px;
