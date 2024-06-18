@@ -62,7 +62,7 @@ section{
   display: flex;
 
  }
-contaner{
+#contaner{
   display: flex;
   flex-wrap: wrap;
 }
