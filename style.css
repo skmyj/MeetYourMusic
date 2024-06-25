@@ -61,11 +61,22 @@ section#PLAYLIST{
   height: auto;
 }
 
+p a{
+	width:250px;
+	display:block;
+}
+p a img{ width:250px; }
+
 
 .box{
   display: flex;
-
  }
+
+ p a:hover{ 
+	opacity:0.5;
+	transition:0.3s;
+}
+
 #container{
   display: flex;
   flex-wrap: wrap;
