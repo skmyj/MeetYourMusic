@@ -12,6 +12,7 @@ a{
 #wrap{
   margin:auto;
   width: 100%;
+  font-family: ""
 }
 
 header{
@@ -100,6 +101,7 @@ footer{
   #wrap {
     width: 80%;
     max-width: 1200px;
+    font-family: "Noto Sans JP", sans-serif;
   }
  
 }
